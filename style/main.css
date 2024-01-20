@@ -180,6 +180,12 @@ section{
     padding: 100px 20px;
 }
 
+.home video{
+
+    min-height: 100%;
+    min-width: 100%;
+    
+    }
 
 }
 @media( max-width:560px){
